@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie2retrofit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_title">Avengers:\nEnd Game</string>
+    <string name="button_back">Back</string>
+    <string name="storyline">Storyline</string>
+    <string name="cast">Cast</string>
+    <string name="minutes">%1$d MIN</string>
+    <string name="reviews">%1$d Reviews</string>
+    <string name="pg">%1$d+</string>
+    <string name="apiyt">AIzaSyDRvNu6_6LrwrAMkqwJ72xaZ5AdD5t7BRA</string>
+    <string name="no_actors">There is no actors in this movie</string>
+    <string name="text_content">After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos\' actions and restore balance to the universe.</string>
+</resources>

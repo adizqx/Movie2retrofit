@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus/Documents/Movie2retrofit/app/src/main/res/drawable/ic_back.xml" value="0.3517948717948718" />
+        <entry key="..\:/Users/Asus/Documents/Movie2retrofit/app/src/main/res/drawable/ic_masksvg.xml" value="0.3517948717948718" />
+        <entry key="..\:/Users/Asus/Documents/Movie2retrofit/app/src/main/res/drawable/point_background.xml" value="0.3517948717948718" />
+        <entry key="..\:/Users/Asus/Documents/Movie2retrofit/app/src/main/res/layout/activity_main.xml" value="0.2667572463768116" />
+        <entry key="..\:/Users/Asus/Documents/Movie2retrofit/app/src/main/res/layout/fragment_blank.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/Asus/Documents/Movie2retrofit/app/src/main/res/layout/fragment_details.xml" value="0.2595108695652174" />
+        <entry key="..\:/Users/Asus/Documents/Movie2retrofit/app/src/main/res/layout/fragment_list.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/Asus/Documents/Movie2retrofit/app/src/main/res/layout/fragment_root.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/Asus/Documents/Movie2retrofit/app/src/main/res/layout/fragment_splash.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/Asus/Documents/Movie2retrofit/app/src/main/res/layout/fragment_youtube_player_support.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/Asus/Documents/Movie2retrofit/app/src/main/res/layout/item_cast.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/Asus/Documents/Movie2retrofit/app/src/main/res/layout/item_movie.xml" value="0.2740036231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
